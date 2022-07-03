@@ -1,0 +1,4 @@
+name: test_pulumi_poetry
+description: Infra for batch jobs - aggregations + administrative 
+runtime: python
+main: src/test_pulumi_poetry
